@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Uma
+=======
+Welcome to github
+>>>>>>> e6e60ba58cfb6f8af084b7c2fa9f26fbce385c57
